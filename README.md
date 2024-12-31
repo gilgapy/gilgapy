@@ -1,16 +1,27 @@
-## Hi there 👋
+# Mi estimado 👋🏻
+## Deja que sepas algo de mi para que prosigas. 
 
-<!--
-**gilgapy/gilgapy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👔 Empresario
+Soy un empresario apasionado por encontrar soluciones innovadoras y crear valor en cada proyecto.
 
-Here are some ideas to get you started:
+### 🔬 Investigador
+Como investigador, me dedico a explorar y analizar datos para descubrir patrones y generar conocimiento útil.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 Economista
+Mi experiencia en economía me permite analizar mercados y proponer estrategias para un crecimiento sostenible.
+
+### 💻 Programador
+Disfruto escribir código limpio y eficiente para resolver problemas y construir aplicaciones útiles.
+
+### 📈 Científico de Datos
+Aplico técnicas avanzadas de análisis y modelos predictivos para transformar datos en decisiones estratégicas.
+
+---
+
+"La ayuda incondicional en las metas de nuestros iguales nos lleva a grandes cosas." 
+
+## **Espero encuentres tu sol**. ☀️
+*Aquí dejo mis redes.* 
+👇🏻👇🏻👇🏻
+
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/gilgapy/gilgapy)
