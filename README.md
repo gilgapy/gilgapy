@@ -20,8 +20,3 @@ Aplico técnicas avanzadas de análisis y modelos predictivos para transformar d
 
 "La ayuda incondicional en las metas de nuestros iguales nos lleva a grandes cosas." 
 
-## **Espero encuentres tu sol**. ☀️
-*Aquí dejo mis redes.* 
-👇🏻👇🏻👇🏻
-
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/gilgapy/gilgapy)
